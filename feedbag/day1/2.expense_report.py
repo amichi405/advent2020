@@ -202,7 +202,7 @@ expense_report = [
 1429,
 1863,
 1540,
-692,
+692
 ]
 
 for x,y,z in itertools.combinations(expense_report, 3):
